@@ -8,9 +8,10 @@ This repository contains code for analyzing and modeling TikTok data. The script
 
 This project involves the analysis of a TikTok dataset with a focus on data exploration, statistical analysis, data modeling, and hypothesis testing. The primary goal is to gain insights into various aspects of the dataset, such as video characteristics, engagement metrics, and the relationship between different variables.
 
-
 ## Table of Contents
-## Table of Contents
+- [Background & Business Problem](#background--business-problem)
+- [Project Questions & Consideration](#project-questions--consideration)
+- [Data Dictionary](#data-dictionary)
 - [Inspection and Analysis](#inspection-and-analysis)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Exploration and Hypothesis Testing](#data-exploration-and-hypothesis-testing)
